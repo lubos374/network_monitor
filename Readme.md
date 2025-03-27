@@ -31,7 +31,7 @@ A powerful command-line tool for comprehensive network diagnostics, monitoring, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/network-monitor.git
+   git clone https://github.com/lubos374/network-monitor.git
    cd network-monitor
    ```
 
